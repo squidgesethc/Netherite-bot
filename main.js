@@ -16,7 +16,7 @@ for (const file of commandFiles) {
 
 
 client.once('ready', () =>{
-    console.log('I am Online')
+    console.log('Cool')
 });
 
 client.on('message', message =>{
